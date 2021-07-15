@@ -11,7 +11,9 @@ PART II --> DataPreprocessing & ngrams & wordlouds
 
 PART III ---> Lexicon Based analysis by VADER and Texblob for both undersampling and imbalance datasets
 
-PART IV --> BOW + ML : Countvectorizer + HashingVectorizer + Ngram
+PART IV --> Vectorizer and Machine learning
+          
+        --->BOW + ML : Countvectorizer + HashingVectorizer + Ngram
 
         ---> TF-IDF + ML
         ---> Doc2vec + Deeplearning with word2vec functions
